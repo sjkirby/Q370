@@ -1,0 +1,128 @@
+portion 45
+  verb
+[u'assign', u'allot', u'administer', u'deal', u'deal out', u'dish out', u'dispense', u'distribute', u'dole out', u'lot', u'mete out', u'parcel out', u'shell out']
+  noun
+[u'part', u'component part', u'component', u'parcel', u'share', u'percentage', u'fortune', u'destiny', u'fate', u'luck', u'lot', u'circumstances', u'dowry', u'dowery', u'dower', u'helping', u'serving', u'allocation', u'allotment', u'apportioning', u'apportionment', u'assets', u'assignation', u'condition', u'gift', u'object', u'parceling', u'parcelling', u'physical object', u'relation', u'small indefinite amount', u'small indefinite quantity']
+
+shew 10
+  verb
+[u'prove', u'demonstrate', u'establish', u'show', u'affirm', u'confirm', u'corroborate', u'substantiate', u'support', u'sustain']
+
+outfox 13
+  verb
+[u'outwit', u'overreach', u'outsmart', u'beat', u'circumvent', u'exceed', u'outdo', u'outgo', u'outmatch', u'outperform', u'outstrip', u'surmount', u'surpass']
+
+gutter 23
+  verb
+[u'burn', u'cater', u'course', u'dig into', u'feed', u'flow', u'glow', u'ply', u'poke into', u'probe', u'provide', u'run', u'supply']
+  noun
+[u'trough', u'sewer', u'toilet', u'bad luck', u'channel', u'hand tool', u'ill luck', u'misfortune', u'tough luck', u'worker']
+
+disorder 17
+  verb
+[u'perturb', u'unhinge', u'disquiet', u'trouble', u'cark', u'distract', u'disarray', u'alter', u'change', u'disturb', u'modify', u'upset']
+  noun
+[u'upset', u'disorderliness', u'condition', u'state', u'status']
+
+promenade 23
+  verb
+[u'parade', u'troop', u'march', u'process', u'walk']
+  noun
+[u'prom', u'mall', u'amble', u'saunter', u'stroll', u'perambulation', u'ball', u'contra danse', u'contradance', u'contredanse', u'country dancing', u'country-dance', u'formal', u'march', u'marching', u'paseo', u'walk', u'walkway']
+
+trial 19
+  noun
+[u'test', u'run', u'trial run', u'tryout', u'tribulation', u'visitation', u'affliction', u'attempt', u'competition', u'contest', u'effort', u'endeavor', u'endeavour', u'experiment', u'experimentation', u'legal proceeding', u'proceeding', u'proceedings', u'try']
+
+interchange 23
+  verb
+[u'exchange', u'change', u'counterchange', u'transpose', u'tack', u'switch', u'alternate', u'flip', u'flip-flop', u'alter', u'change by reversal', u'modify', u'reverse', u'transfer', u'turn']
+  noun
+[u'reciprocation', u'give-and-take', u'exchange', u'commerce', u'commercialism', u'interaction', u'junction', u'mercantilism']
+
+remold 13
+  verb
+[u'recast', u'remould', u'reshape', u'retread', u'cast', u'forge', u'form', u'mold', u'mould', u'regenerate', u'renew', u'shape', u'work']
+
+carom 19
+  verb
+[u'bounce', u'bound', u'glance', u'rebound', u'recoil', u'resile', u'reverberate', u'ricochet', u'shoot', u'spring', u'take a hop']
+  noun
+[u'ricochet', u'cannon', u'backlash', u'rebound', u'recoil', u'repercussion', u'shot', u'stroke']
+
+cane 10
+  verb
+[u'flog', u'lambaste', u'lambast', u'beat', u'beat up', u'work over']
+  noun
+[u'stalk', u'stem', u'switch', u'walking stick']
+
+glory 19
+  verb
+[u'exuberate', u'exult', u'jubilate', u'rejoice', u'triumph']
+  noun
+[u'glorification', u'resplendence', u'resplendency', u'aura', u'aureole', u'halo', u'nimbus', u'gloriole', u'beauty', u'honor', u'honour', u'laurels', u'light', u'lightness']
+
+plait 20
+  verb
+[u'braid', u'lace', u'interweave', u'tissue', u'weave']
+  noun
+[u'braid', u'tress', u'twist', u'pleat', u'bend', u'coif', u'coiffure', u'crease', u'crimp', u'flexure', u'fold', u'hair style', u'hairdo', u'hairstyle', u'plication']
+
+grey 38
+  verb
+[u'gray', u'color', u'color in', u'colorise', u'colorize', u'colour', u'colour in', u'colourise', u'colourize', u'discolor', u'discolour']
+  noun
+[u'Zane Grey', u'Lady Jane Grey', u'Charles Grey', u'Second Earl Grey', u'Grey', u'gray', u'grayness', u'greyness', u'achromatic color', u'achromatic colour', u'article of clothing', u'author', u'clothing', u'habiliment', u'mount', u'national leader', u'organisation', u'organization', u'Queen of England', u'riding horse', u'saddle horse', u'solon', u'statesman', u'vesture', u'wear', u'wearable', u'writer']
+
+clunk 10
+  verb
+[u'clop', u'clump', u'plunk', u'go', u'sound']
+  noun
+[u'thump', u'thumping', u'clump', u'thud', u'sound']
+
+purloin 12
+  verb
+[u'pilfer', u'cabbage', u'pinch', u'abstract', u'snarf', u'swipe', u'hook', u'sneak', u'filch', u'nobble', u'lift', u'steal']
+
+overindulge 16
+  verb
+[u'gorge', u'ingurgitate', u'glut', u'englut', u'stuff', u'engorge', u'overgorge', u'overeat', u'gormandize', u'gormandise', u'gourmandize', u'binge', u'pig out', u'satiate', u'scarf out', u'eat']
+
+bootleg 10
+  verb
+[u'create', u'make', u'produce', u'sell']
+  noun
+[u'moonshine', u'corn liquor', u'corn', u'corn whiskey', u'corn whisky', u'covering']
+
+domicile 16
+  verb
+[u'reside', u'shack', u'domiciliate', u'dwell', u'inhabit', u'live']
+  noun
+[u'legal residence', u'dwelling', u'home', u'abode', u'habitation', u'dwelling house', u'housing', u'living accommodations', u'lodging', u'residence']
+
+prostitute 14
+  verb
+[u'sell']
+  noun
+[u'cocotte', u'whore', u'harlot', u'bawd', u'tart', u'cyprian', u'fancy woman', u'working girl', u'sporting lady', u'lady of pleasure', u'woman of the street', u'adult female', u'woman']
+
+blade 26
+  noun
+[u'leaf blade', u'sword', u'brand', u'steel', u'vane', u'anatomical structure', u'arm', u'bodily structure', u'body structure', u'complex body part', u'cut of beef', u'cutting implement', u'foliage', u'leaf', u'leafage', u'ribbon', u'rotating mechanism', u'runner', u'spring chicken', u'structure', u'thread', u'weapon', u'weapon system', u'young person', u'younker', u'youth']
+
+blab 38
+  verb
+[u'spill the beans', u'let the cat out of the bag', u'talk', u'tattle', u'peach', u'babble', u'sing', u'babble out', u'blab out', u'chatter', u'piffle', u'palaver', u'prate', u'tittle-tattle', u'twaddle', u'clack', u'maunder', u'prattle', u'gibber', u'blabber', u'gabble', u'break', u'bring out', u'disclose', u'discover', u'divulge', u'expose', u'give away', u'impart', u'let on', u'let out', u'mouth', u'reveal', u'speak', u'unwrap', u'utter', u'verbalise', u'verbalize']
+
+tinsel 19
+  verb
+[u'add', u'adorn', u'beautify', u'bestow', u'bring', u'contribute', u'decorate', u'embellish', u'grace', u'impart', u'interweave', u'lend', u'ornament', u'weave']
+  noun
+[u'decoration', u'ornament', u'ornamentation', u'thread', u'yarn']
+
+salve 17
+  verb
+[u'salvage', u'relieve', u'save', u'deliver', u'medicate', u'medicine', u'rescue']
+  noun
+[u'ointment', u'unction', u'unguent', u'balm', u'curative', u'cure', u'redress', u'remediation', u'remedy', u'therapeutic']
+

@@ -1,0 +1,30 @@
+syns = {'picket': [u'lookout', u'lookout man', u'sentinel', u'sentry', u'watch', u'spotter'],
+'befuddle': [u'confuse', u'bedevil', u'confound', u'discombobulate', u'inebriate', u'intoxicate'],
+'besmirch': [u'defame', u'slander', u'smirch', u'denigrate', u'smear', u'sully'],
+'twiddle': [u'twirl', u'swirl', u'whirl', u'fiddle with', u'go around', u'manipulate'],
+'debauch': [u'corrupt', u'pervert', u'subvert', u'demoralize', u'debase', u'profane'],
+'slaver': [u'drivel', u'drool', u'slabber', u'slobber', u'dribble', u'salivate'],
+'scotch': [u'thwart', u'queer', u'spoil', u'foil', u'frustrate', u'baffle'],
+'exfoliate': [u'break away', u'break off', u'cast off', u'chip', u'chip off', u'shed'],
+'shew': [u'demonstrate', u'establish', u'affirm', u'corroborate', u'substantiate', u'support'],
+'carom': [u'bounce', u'bound', u'glance', u'recoil', u'reverberate', u'ricochet']}
+
+defs = {'picket': 'a soldier or a group of soldiers whose duty is to guard something (such as a camp)',
+'befuddle': 'to muddle or stupefy with or as if with drink',
+'besmirch': 'to cause harm or damage to (the reputation of someone or something)',
+'twiddle': 'to turn (something) back and forth slightly',
+'debauch': 'to lead away from virtue or excellence. to corrupt by intemperance or sensuality',
+'slaver': 'to allow liquid to drip out of the mouth',
+'scotch': 'to put an end to (scotched rumors of a military takeover)',
+'exfoliate': 'to cast off in scales, laminae, or splinters',
+'shew': 'to give information that proves (something)',
+'carom': 'a rebounding especially at an angle'}
+
+words = ['picket','shew','carom','twiddle','debauch','exfoliate','befuddle','slaver','scotch','besmirch']
+
+
+
+for x in words:
+	print x
+	print syns[x]
+	print defs[x]
