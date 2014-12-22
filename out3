@@ -1,0 +1,40 @@
+647,648c647,648
+< <fieldset><label>besmirch</label>
+< 	<p>dirty</p>
+---
+> <fieldset><label>scotch</label>
+> 	<p>to prevent</p>
+651,652c651,652
+< <fieldset><label>exfoliate</label>
+< 	<p>to rub off or shed off</p>
+---
+> <fieldset><label>besmirch</label>
+> 	<p>dirty</p>
+667c667
+< 	<p>mess up</p>
+---
+> 	<p>to corrupt something</p>
+670,671c670,671
+< <fieldset><label>carom</label>
+< 	<p>board</p>
+---
+> <fieldset><label>picket</label>
+> 	<p>soldier on guard</p>
+685,686c685,686
+< <fieldset><label>slaver</label>
+< 	<p>someone who owns slaves.</p>
+---
+> <fieldset><label>carom</label>
+> 	<p>seed</p>
+704,705c704,705
+< <fieldset><label>scotch</label>
+< 	<p>to put an end to something (as in a plan)</p>
+---
+> <fieldset><label>slaver</label>
+> 	<p>to be a serve man</p>
+708,709c708,709
+< <fieldset><label>picket</label>
+< 	<p>to enclose, secure, tether, mark out, or fortify with pickets.</p>
+---
+> <fieldset><label>exfoliate</label>
+> 	<p>to rub off or shed off</p>
